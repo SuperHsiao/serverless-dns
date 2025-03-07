@@ -31,6 +31,6 @@ jobs:
         with:
           project: "doh-pp-ua"
           entrypoint: "src/server-deno.ts"
-          root: ""
+          root: "./"
           
           
